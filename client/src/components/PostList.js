@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import PostCard from './PostCard';
 
 const PostList = ({ posts }) => (
-  <Card.Group itemsPerRow={5} >
+  <Card.Group itemsPerRow={3} >
     {posts.map(post => PostCard(post))}
   </Card.Group>
 );
