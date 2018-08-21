@@ -1,4 +1,6 @@
-# SideShare
+# React Test Project
+
+Help from Ben-Awad tutorial
 
 To run create two terminal windows.  Run yarn start in backend and the client
 
